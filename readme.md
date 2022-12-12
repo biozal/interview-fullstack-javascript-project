@@ -1,7 +1,7 @@
 # Javascript Full Stack Project/Task Manager 
 
 ## Introduction
-In software development we use Agile concepts to work on features of a given software project we are on.  Tasks are assigned to a developer to work on and when all the tasks associated with the feature are complete, the feature is said to be complete and can ship to production.
+In software development we use Agile concepts to work on features of a given software project we are working on.  Tasks are assigned to a developer to work on and when all the tasks associated with the feature are complete, the feature is said to be complete and can ship to production.
 
 The goal of this exercise is to create a backend service that will return a list of projects and associated tasks with the project.  Projects must have a title, description, due date and listing of tasks.  The task should have a title, description, due date, priority, and point size (using fibonacci scale).
 
