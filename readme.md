@@ -22,7 +22,7 @@ A user should be able to fully interact with either the Backend via tools like P
 * Tasks must have the following properties:  title, description, due date, priority, and point size (using fibonacci scale)
 * The backend service must be able to return a list of projects and associated tasks
 * The backend service must have tests associated with the API calls built
-* The backend service should use JSLint 
+
 
 ### Frontend
 * The frontend must be written in Javascript 6 using ReactJS
