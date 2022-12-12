@@ -1,11 +1,11 @@
-# Javascript Full Stack Project/Task Manager 
+# JavaScript Full Stack Project/Task Manager 
 
 ## Introduction
 In software development, we use Agile concepts to work on features of a given software project we are working on.  Tasks are assigned to a developer to work on, and when all the tasks associated with the feature are complete, the feature is said to be complete and can ship to production.
 
 The goal of this exercise is to create a backend service that will return a list of projects and associated tasks with the project.  Projects must have a title, description, due date, and listing of tasks.  The task should have a title, description, due date, priority, and point size (using fibonacci scale).
 
-The backend service must be built using Node.js and Javascript 6.  You can use any packages/frameworks you like to implement this backend service.  
+The backend service must be built using Node.js and JavaScript 6.  You can use any packages/frameworks you like to implement this backend service.  
 
 The second part is to build a User Interface based on ReactJS for the backend service.  The first "page" should have a list of projects with the ability to add, update, or delete a project.  If you click on a project, you should get a listing of tasks associated to this project.  You can add, update, or delete tasks from the second page.  You are free to use any packages/frameworks you like to implement this UI.  If you are stuck for ideas, [Ant-d](https://ant.design/components/overview/), [Material Design](https://mui.com/core/), [Fluent UI](https://developer.microsoft.com/en-us/fluentui) are all great UI component libraries.
 
@@ -14,7 +14,7 @@ A user should be able to fully interact with either the Backend via tools like P
 
 ### Backend API
 
-* The backend service must be written in Javascript 6 using NodeJS.
+* The backend service must be written in JavaScript 6 using NodeJS.
 * The backend service can host the projects and tasks in any way the developer sees fit (in memory, file system, database, etc.)
 * The backend service API can be implemented using the REST API standard or GraphQL
 * The backend service must define the ability to do full CRUD (Create, Read, Update, Delete) operations for projects and tasks
@@ -25,7 +25,7 @@ A user should be able to fully interact with either the Backend via tools like P
 
 
 ### Frontend
-* The frontend must be written in Javascript 6 using ReactJS
+* The frontend must be written in JavaScript 6 using ReactJS
 * The frontend must have the first page list all projects and allow the user to add, update, or delete a project
 * The frontend must give the option for the user to select a project to go to a page that lists all the tasks associated with that project.
 * The frontend must have the second page list all tasks associated with a project and allow the user to add, update, or delete a task
