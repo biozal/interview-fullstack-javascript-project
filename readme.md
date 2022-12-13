@@ -30,7 +30,7 @@ A user should be able to fully interact with either the API via tools like Postm
 * The frontend must give the option for the user to select a project to go to a page that lists all the tasks associated with that project.
 * The frontend must have the second page list all tasks associated with a project and allow the user to add, update, or delete a task
 
-All Javascript code must use the recommended best practices for JS 6 syntax listed on [Free Code Camp](https://www.freecodecamp.org/news/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-afd4ce25977c/).
+All Javascript code must follow the recommended best practices for JS 6 syntax listed on [Free Code Camp](https://www.freecodecamp.org/news/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-afd4ce25977c/) where applicable.
 
 ## Submission
 The code must be hosted in a GitHub repo with a README file that explains how to run the API and the UI associated with it.
